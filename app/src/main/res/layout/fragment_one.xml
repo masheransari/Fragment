@@ -1,0 +1,18 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="400dp"
+    android:background="#80FA1E"
+    tools:context="com.example.iq.fragmentdemo.fragmentOne">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Welcome To Fragement One"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textAppearance="?android:textAppearanceLarge"
+        />
+
+</FrameLayout>
